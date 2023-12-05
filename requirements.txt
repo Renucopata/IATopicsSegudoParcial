@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic-settings
+python-dotenv
+ruff
+bs4
+spacy
+transformers
+tensorflow
+torch
