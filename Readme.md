@@ -1,4 +1,4 @@
-# Reconocimiento de sentimiento de noticias 📰🗞️
+# Reconocimiento de sentimiento de noticias
 ### Nombre: Rene Alejandro Rengel Arevalo
 ### Codigo: 49962 
 
